@@ -1,0 +1,22 @@
+[
+  {
+    "notice": "W1",
+    "store": "annex",
+    "channel": "counter",
+    "price": 7500,
+    "approved": "2026-09-09T09:00:00+08:00",
+    "based_on": "2026-09-08T09:00:00+08:00",
+    "planned": "2026-09-11T09:00:00+08:00",
+    "switched_on": "2026-09-11T09:00:00+08:00"
+  },
+  {
+    "notice": "W2",
+    "store": "city",
+    "channel": "mini",
+    "price": 7300,
+    "approved": "2026-09-09T09:00:00+08:00",
+    "based_on": "2026-09-08T09:00:00+08:00",
+    "planned": "2026-09-18T09:00:00+08:00",
+    "switched_on": null
+  }
+]
