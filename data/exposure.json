@@ -380,7 +380,7 @@
     "entrants": 108,
     "actual": "原价",
     "cross_exposure": false,
-    "register_down": true,
+    "register_down": false,
     "known": "2026-08-16T18:00:00+08:00"
   },
   {
