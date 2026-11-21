@@ -1,0 +1,26 @@
+[
+  {
+    "offer": "P8",
+    "store": "ferry",
+    "channel": "mini",
+    "price": 7600,
+    "booked": "2026-09-04T09:00:00+08:00",
+    "expires": "2026-09-24T09:00:00+08:00"
+  },
+  {
+    "offer": "P9",
+    "store": "city",
+    "channel": "mini",
+    "price": 7900,
+    "booked": "2026-09-10T09:00:00+08:00",
+    "expires": "2026-10-03T09:00:00+08:00"
+  },
+  {
+    "offer": "P10",
+    "store": "annex",
+    "channel": "counter",
+    "price": 7700,
+    "booked": "2026-09-10T09:00:00+08:00",
+    "expires": "2026-09-17T09:00:00+08:00"
+  }
+]

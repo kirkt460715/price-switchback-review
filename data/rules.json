@@ -1,0 +1,20 @@
+[
+  {
+    "sku": "rubbed-note",
+    "review_as_of": "2026-09-08T09:00:00+08:00",
+    "return_days": 14,
+    "guard_minutes": 8,
+    "min_complete_pairs": 3,
+    "min_effect_lower_bound": 0,
+    "confidence": 0.9
+  },
+  {
+    "sku": "rubbed-note",
+    "review_as_of": "2026-09-27T09:00:00+08:00",
+    "return_days": 14,
+    "guard_minutes": 8,
+    "min_complete_pairs": 3,
+    "min_effect_lower_bound": 0,
+    "confidence": 0.9
+  }
+]

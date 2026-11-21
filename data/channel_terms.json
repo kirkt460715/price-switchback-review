@@ -1,0 +1,86 @@
+[
+  {
+    "store": "ferry",
+    "channel": "mini",
+    "shared_group": "mini-wide",
+    "floor_rate": 0.36,
+    "known": "2026-08-01T09:00:00+08:00"
+  },
+  {
+    "store": "ferry",
+    "channel": "counter",
+    "shared_group": "ferry-counter",
+    "floor_rate": 0.34,
+    "known": "2026-08-01T09:00:00+08:00"
+  },
+  {
+    "store": "ferry",
+    "channel": "mini",
+    "shared_group": "mini-wide",
+    "floor_rate": 0.39,
+    "known": "2026-09-09T09:00:00+08:00"
+  },
+  {
+    "store": "hall",
+    "channel": "mini",
+    "shared_group": "mini-wide",
+    "floor_rate": 0.36,
+    "known": "2026-08-01T09:00:00+08:00"
+  },
+  {
+    "store": "hall",
+    "channel": "counter",
+    "shared_group": "hall-counter",
+    "floor_rate": 0.34,
+    "known": "2026-08-01T09:00:00+08:00"
+  },
+  {
+    "store": "hall",
+    "channel": "mini",
+    "shared_group": "mini-wide",
+    "floor_rate": 0.39,
+    "known": "2026-09-09T09:00:00+08:00"
+  },
+  {
+    "store": "annex",
+    "channel": "mini",
+    "shared_group": "annex-mini",
+    "floor_rate": 0.36,
+    "known": "2026-08-01T09:00:00+08:00"
+  },
+  {
+    "store": "annex",
+    "channel": "counter",
+    "shared_group": "annex-counter",
+    "floor_rate": 0.34,
+    "known": "2026-08-01T09:00:00+08:00"
+  },
+  {
+    "store": "annex",
+    "channel": "mini",
+    "shared_group": "annex-mini",
+    "floor_rate": 0.39,
+    "known": "2026-09-09T09:00:00+08:00"
+  },
+  {
+    "store": "city",
+    "channel": "mini",
+    "shared_group": "mini-wide",
+    "floor_rate": 0.36,
+    "known": "2026-08-01T09:00:00+08:00"
+  },
+  {
+    "store": "city",
+    "channel": "counter",
+    "shared_group": "city-counter",
+    "floor_rate": 0.34,
+    "known": "2026-08-01T09:00:00+08:00"
+  },
+  {
+    "store": "city",
+    "channel": "mini",
+    "shared_group": "mini-wide",
+    "floor_rate": 0.39,
+    "known": "2026-09-09T09:00:00+08:00"
+  }
+]

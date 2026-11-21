@@ -1,0 +1,770 @@
+[
+  {
+    "window": "ferry-0-11",
+    "pair": "ferry-0-11",
+    "store": "ferry",
+    "starts": "2026-08-01T11:00:00+08:00",
+    "ends": "2026-08-01T13:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "ferry-1-11",
+    "pair": "ferry-0-11",
+    "store": "ferry",
+    "starts": "2026-08-02T11:00:00+08:00",
+    "ends": "2026-08-02T13:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "ferry-0-15",
+    "pair": "ferry-0-15",
+    "store": "ferry",
+    "starts": "2026-08-01T15:00:00+08:00",
+    "ends": "2026-08-01T17:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "ferry-1-15",
+    "pair": "ferry-0-15",
+    "store": "ferry",
+    "starts": "2026-08-02T15:00:00+08:00",
+    "ends": "2026-08-02T17:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "hall-0-11",
+    "pair": "hall-0-11",
+    "store": "hall",
+    "starts": "2026-08-01T11:00:00+08:00",
+    "ends": "2026-08-01T13:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "hall-1-11",
+    "pair": "hall-0-11",
+    "store": "hall",
+    "starts": "2026-08-02T11:00:00+08:00",
+    "ends": "2026-08-02T13:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "hall-0-15",
+    "pair": "hall-0-15",
+    "store": "hall",
+    "starts": "2026-08-01T15:00:00+08:00",
+    "ends": "2026-08-01T17:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "hall-1-15",
+    "pair": "hall-0-15",
+    "store": "hall",
+    "starts": "2026-08-02T15:00:00+08:00",
+    "ends": "2026-08-02T17:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "annex-0-11",
+    "pair": "annex-0-11",
+    "store": "annex",
+    "starts": "2026-08-01T11:00:00+08:00",
+    "ends": "2026-08-01T13:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "annex-1-11",
+    "pair": "annex-0-11",
+    "store": "annex",
+    "starts": "2026-08-02T11:00:00+08:00",
+    "ends": "2026-08-02T13:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "annex-0-15",
+    "pair": "annex-0-15",
+    "store": "annex",
+    "starts": "2026-08-01T15:00:00+08:00",
+    "ends": "2026-08-01T17:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "annex-1-15",
+    "pair": "annex-0-15",
+    "store": "annex",
+    "starts": "2026-08-02T15:00:00+08:00",
+    "ends": "2026-08-02T17:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "city-0-11",
+    "pair": "city-0-11",
+    "store": "city",
+    "starts": "2026-08-01T11:00:00+08:00",
+    "ends": "2026-08-01T13:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "city-1-11",
+    "pair": "city-0-11",
+    "store": "city",
+    "starts": "2026-08-02T11:00:00+08:00",
+    "ends": "2026-08-02T13:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "city-0-15",
+    "pair": "city-0-15",
+    "store": "city",
+    "starts": "2026-08-01T15:00:00+08:00",
+    "ends": "2026-08-01T17:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "city-1-15",
+    "pair": "city-0-15",
+    "store": "city",
+    "starts": "2026-08-02T15:00:00+08:00",
+    "ends": "2026-08-02T17:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "ferry-7-11",
+    "pair": "ferry-7-11",
+    "store": "ferry",
+    "starts": "2026-08-08T11:00:00+08:00",
+    "ends": "2026-08-08T13:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "ferry-8-11",
+    "pair": "ferry-7-11",
+    "store": "ferry",
+    "starts": "2026-08-09T11:00:00+08:00",
+    "ends": "2026-08-09T13:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "ferry-7-15",
+    "pair": "ferry-7-15",
+    "store": "ferry",
+    "starts": "2026-08-08T15:00:00+08:00",
+    "ends": "2026-08-08T17:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "ferry-8-15",
+    "pair": "ferry-7-15",
+    "store": "ferry",
+    "starts": "2026-08-09T15:00:00+08:00",
+    "ends": "2026-08-09T17:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "hall-7-11",
+    "pair": "hall-7-11",
+    "store": "hall",
+    "starts": "2026-08-08T11:00:00+08:00",
+    "ends": "2026-08-08T13:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "hall-8-11",
+    "pair": "hall-7-11",
+    "store": "hall",
+    "starts": "2026-08-09T11:00:00+08:00",
+    "ends": "2026-08-09T13:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "hall-7-15",
+    "pair": "hall-7-15",
+    "store": "hall",
+    "starts": "2026-08-08T15:00:00+08:00",
+    "ends": "2026-08-08T17:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "hall-8-15",
+    "pair": "hall-7-15",
+    "store": "hall",
+    "starts": "2026-08-09T15:00:00+08:00",
+    "ends": "2026-08-09T17:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "annex-7-11",
+    "pair": "annex-7-11",
+    "store": "annex",
+    "starts": "2026-08-08T11:00:00+08:00",
+    "ends": "2026-08-08T13:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "annex-8-11",
+    "pair": "annex-7-11",
+    "store": "annex",
+    "starts": "2026-08-09T11:00:00+08:00",
+    "ends": "2026-08-09T13:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "annex-7-15",
+    "pair": "annex-7-15",
+    "store": "annex",
+    "starts": "2026-08-08T15:00:00+08:00",
+    "ends": "2026-08-08T17:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "annex-8-15",
+    "pair": "annex-7-15",
+    "store": "annex",
+    "starts": "2026-08-09T15:00:00+08:00",
+    "ends": "2026-08-09T17:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "city-7-11",
+    "pair": "city-7-11",
+    "store": "city",
+    "starts": "2026-08-08T11:00:00+08:00",
+    "ends": "2026-08-08T13:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "city-8-11",
+    "pair": "city-7-11",
+    "store": "city",
+    "starts": "2026-08-09T11:00:00+08:00",
+    "ends": "2026-08-09T13:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "city-7-15",
+    "pair": "city-7-15",
+    "store": "city",
+    "starts": "2026-08-08T15:00:00+08:00",
+    "ends": "2026-08-08T17:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "city-8-15",
+    "pair": "city-7-15",
+    "store": "city",
+    "starts": "2026-08-09T15:00:00+08:00",
+    "ends": "2026-08-09T17:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "ferry-14-11",
+    "pair": "ferry-14-11",
+    "store": "ferry",
+    "starts": "2026-08-15T11:00:00+08:00",
+    "ends": "2026-08-15T13:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "ferry-15-11",
+    "pair": "ferry-14-11",
+    "store": "ferry",
+    "starts": "2026-08-16T11:00:00+08:00",
+    "ends": "2026-08-16T13:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "ferry-14-15",
+    "pair": "ferry-14-15",
+    "store": "ferry",
+    "starts": "2026-08-15T15:00:00+08:00",
+    "ends": "2026-08-15T17:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "ferry-15-15",
+    "pair": "ferry-14-15",
+    "store": "ferry",
+    "starts": "2026-08-16T15:00:00+08:00",
+    "ends": "2026-08-16T17:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "hall-14-11",
+    "pair": "hall-14-11",
+    "store": "hall",
+    "starts": "2026-08-15T11:00:00+08:00",
+    "ends": "2026-08-15T13:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "hall-15-11",
+    "pair": "hall-14-11",
+    "store": "hall",
+    "starts": "2026-08-16T11:00:00+08:00",
+    "ends": "2026-08-16T13:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "hall-14-15",
+    "pair": "hall-14-15",
+    "store": "hall",
+    "starts": "2026-08-15T15:00:00+08:00",
+    "ends": "2026-08-15T17:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "hall-15-15",
+    "pair": "hall-14-15",
+    "store": "hall",
+    "starts": "2026-08-16T15:00:00+08:00",
+    "ends": "2026-08-16T17:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "annex-14-11",
+    "pair": "annex-14-11",
+    "store": "annex",
+    "starts": "2026-08-15T11:00:00+08:00",
+    "ends": "2026-08-15T13:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "annex-15-11",
+    "pair": "annex-14-11",
+    "store": "annex",
+    "starts": "2026-08-16T11:00:00+08:00",
+    "ends": "2026-08-16T13:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "annex-14-15",
+    "pair": "annex-14-15",
+    "store": "annex",
+    "starts": "2026-08-15T15:00:00+08:00",
+    "ends": "2026-08-15T17:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "annex-15-15",
+    "pair": "annex-14-15",
+    "store": "annex",
+    "starts": "2026-08-16T15:00:00+08:00",
+    "ends": "2026-08-16T17:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "city-14-11",
+    "pair": "city-14-11",
+    "store": "city",
+    "starts": "2026-08-15T11:00:00+08:00",
+    "ends": "2026-08-15T13:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "city-15-11",
+    "pair": "city-14-11",
+    "store": "city",
+    "starts": "2026-08-16T11:00:00+08:00",
+    "ends": "2026-08-16T13:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "city-14-15",
+    "pair": "city-14-15",
+    "store": "city",
+    "starts": "2026-08-15T15:00:00+08:00",
+    "ends": "2026-08-15T17:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "city-15-15",
+    "pair": "city-14-15",
+    "store": "city",
+    "starts": "2026-08-16T15:00:00+08:00",
+    "ends": "2026-08-16T17:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "ferry-21-11",
+    "pair": "ferry-21-11",
+    "store": "ferry",
+    "starts": "2026-08-22T11:00:00+08:00",
+    "ends": "2026-08-22T13:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "ferry-22-11",
+    "pair": "ferry-21-11",
+    "store": "ferry",
+    "starts": "2026-08-23T11:00:00+08:00",
+    "ends": "2026-08-23T13:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "ferry-21-15",
+    "pair": "ferry-21-15",
+    "store": "ferry",
+    "starts": "2026-08-22T15:00:00+08:00",
+    "ends": "2026-08-22T17:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "ferry-22-15",
+    "pair": "ferry-21-15",
+    "store": "ferry",
+    "starts": "2026-08-23T15:00:00+08:00",
+    "ends": "2026-08-23T17:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "hall-21-11",
+    "pair": "hall-21-11",
+    "store": "hall",
+    "starts": "2026-08-22T11:00:00+08:00",
+    "ends": "2026-08-22T13:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "hall-22-11",
+    "pair": "hall-21-11",
+    "store": "hall",
+    "starts": "2026-08-23T11:00:00+08:00",
+    "ends": "2026-08-23T13:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "hall-21-15",
+    "pair": "hall-21-15",
+    "store": "hall",
+    "starts": "2026-08-22T15:00:00+08:00",
+    "ends": "2026-08-22T17:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "hall-22-15",
+    "pair": "hall-21-15",
+    "store": "hall",
+    "starts": "2026-08-23T15:00:00+08:00",
+    "ends": "2026-08-23T17:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "annex-21-11",
+    "pair": "annex-21-11",
+    "store": "annex",
+    "starts": "2026-08-22T11:00:00+08:00",
+    "ends": "2026-08-22T13:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "annex-22-11",
+    "pair": "annex-21-11",
+    "store": "annex",
+    "starts": "2026-08-23T11:00:00+08:00",
+    "ends": "2026-08-23T13:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "annex-21-15",
+    "pair": "annex-21-15",
+    "store": "annex",
+    "starts": "2026-08-22T15:00:00+08:00",
+    "ends": "2026-08-22T17:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "annex-22-15",
+    "pair": "annex-21-15",
+    "store": "annex",
+    "starts": "2026-08-23T15:00:00+08:00",
+    "ends": "2026-08-23T17:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "city-21-11",
+    "pair": "city-21-11",
+    "store": "city",
+    "starts": "2026-08-22T11:00:00+08:00",
+    "ends": "2026-08-22T13:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "city-22-11",
+    "pair": "city-21-11",
+    "store": "city",
+    "starts": "2026-08-23T11:00:00+08:00",
+    "ends": "2026-08-23T13:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "city-21-15",
+    "pair": "city-21-15",
+    "store": "city",
+    "starts": "2026-08-22T15:00:00+08:00",
+    "ends": "2026-08-22T17:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "city-22-15",
+    "pair": "city-21-15",
+    "store": "city",
+    "starts": "2026-08-23T15:00:00+08:00",
+    "ends": "2026-08-23T17:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "ferry-28-11",
+    "pair": "ferry-28-11",
+    "store": "ferry",
+    "starts": "2026-08-29T11:00:00+08:00",
+    "ends": "2026-08-29T13:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "ferry-29-11",
+    "pair": "ferry-28-11",
+    "store": "ferry",
+    "starts": "2026-08-30T11:00:00+08:00",
+    "ends": "2026-08-30T13:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "ferry-28-15",
+    "pair": "ferry-28-15",
+    "store": "ferry",
+    "starts": "2026-08-29T15:00:00+08:00",
+    "ends": "2026-08-29T17:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "ferry-29-15",
+    "pair": "ferry-28-15",
+    "store": "ferry",
+    "starts": "2026-08-30T15:00:00+08:00",
+    "ends": "2026-08-30T17:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "hall-28-11",
+    "pair": "hall-28-11",
+    "store": "hall",
+    "starts": "2026-08-29T11:00:00+08:00",
+    "ends": "2026-08-29T13:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "hall-29-11",
+    "pair": "hall-28-11",
+    "store": "hall",
+    "starts": "2026-08-30T11:00:00+08:00",
+    "ends": "2026-08-30T13:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "hall-28-15",
+    "pair": "hall-28-15",
+    "store": "hall",
+    "starts": "2026-08-29T15:00:00+08:00",
+    "ends": "2026-08-29T17:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "hall-29-15",
+    "pair": "hall-28-15",
+    "store": "hall",
+    "starts": "2026-08-30T15:00:00+08:00",
+    "ends": "2026-08-30T17:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "annex-28-11",
+    "pair": "annex-28-11",
+    "store": "annex",
+    "starts": "2026-08-29T11:00:00+08:00",
+    "ends": "2026-08-29T13:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "annex-29-11",
+    "pair": "annex-28-11",
+    "store": "annex",
+    "starts": "2026-08-30T11:00:00+08:00",
+    "ends": "2026-08-30T13:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "annex-28-15",
+    "pair": "annex-28-15",
+    "store": "annex",
+    "starts": "2026-08-29T15:00:00+08:00",
+    "ends": "2026-08-29T17:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "annex-29-15",
+    "pair": "annex-28-15",
+    "store": "annex",
+    "starts": "2026-08-30T15:00:00+08:00",
+    "ends": "2026-08-30T17:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "city-28-11",
+    "pair": "city-28-11",
+    "store": "city",
+    "starts": "2026-08-29T11:00:00+08:00",
+    "ends": "2026-08-29T13:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "city-29-11",
+    "pair": "city-28-11",
+    "store": "city",
+    "starts": "2026-08-30T11:00:00+08:00",
+    "ends": "2026-08-30T13:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "city-28-15",
+    "pair": "city-28-15",
+    "store": "city",
+    "starts": "2026-08-29T15:00:00+08:00",
+    "ends": "2026-08-29T17:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "city-29-15",
+    "pair": "city-28-15",
+    "store": "city",
+    "starts": "2026-08-30T15:00:00+08:00",
+    "ends": "2026-08-30T17:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "ferry-35-11",
+    "pair": "ferry-35-11",
+    "store": "ferry",
+    "starts": "2026-09-05T11:00:00+08:00",
+    "ends": "2026-09-05T13:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "ferry-36-11",
+    "pair": "ferry-35-11",
+    "store": "ferry",
+    "starts": "2026-09-06T11:00:00+08:00",
+    "ends": "2026-09-06T13:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "ferry-35-15",
+    "pair": "ferry-35-15",
+    "store": "ferry",
+    "starts": "2026-09-05T15:00:00+08:00",
+    "ends": "2026-09-05T17:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "ferry-36-15",
+    "pair": "ferry-35-15",
+    "store": "ferry",
+    "starts": "2026-09-06T15:00:00+08:00",
+    "ends": "2026-09-06T17:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "hall-35-11",
+    "pair": "hall-35-11",
+    "store": "hall",
+    "starts": "2026-09-05T11:00:00+08:00",
+    "ends": "2026-09-05T13:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "hall-36-11",
+    "pair": "hall-35-11",
+    "store": "hall",
+    "starts": "2026-09-06T11:00:00+08:00",
+    "ends": "2026-09-06T13:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "hall-35-15",
+    "pair": "hall-35-15",
+    "store": "hall",
+    "starts": "2026-09-05T15:00:00+08:00",
+    "ends": "2026-09-05T17:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "hall-36-15",
+    "pair": "hall-35-15",
+    "store": "hall",
+    "starts": "2026-09-06T15:00:00+08:00",
+    "ends": "2026-09-06T17:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "annex-35-11",
+    "pair": "annex-35-11",
+    "store": "annex",
+    "starts": "2026-09-05T11:00:00+08:00",
+    "ends": "2026-09-05T13:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "annex-36-11",
+    "pair": "annex-35-11",
+    "store": "annex",
+    "starts": "2026-09-06T11:00:00+08:00",
+    "ends": "2026-09-06T13:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "annex-35-15",
+    "pair": "annex-35-15",
+    "store": "annex",
+    "starts": "2026-09-05T15:00:00+08:00",
+    "ends": "2026-09-05T17:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "annex-36-15",
+    "pair": "annex-35-15",
+    "store": "annex",
+    "starts": "2026-09-06T15:00:00+08:00",
+    "ends": "2026-09-06T17:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "city-35-11",
+    "pair": "city-35-11",
+    "store": "city",
+    "starts": "2026-09-05T11:00:00+08:00",
+    "ends": "2026-09-05T13:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "city-36-11",
+    "pair": "city-35-11",
+    "store": "city",
+    "starts": "2026-09-06T11:00:00+08:00",
+    "ends": "2026-09-06T13:00:00+08:00",
+    "assigned": "试价"
+  },
+  {
+    "window": "city-35-15",
+    "pair": "city-35-15",
+    "store": "city",
+    "starts": "2026-09-05T15:00:00+08:00",
+    "ends": "2026-09-05T17:00:00+08:00",
+    "assigned": "原价"
+  },
+  {
+    "window": "city-36-15",
+    "pair": "city-35-15",
+    "store": "city",
+    "starts": "2026-09-06T15:00:00+08:00",
+    "ends": "2026-09-06T17:00:00+08:00",
+    "assigned": "试价"
+  }
+]

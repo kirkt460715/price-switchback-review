@@ -1,0 +1,770 @@
+[
+  {
+    "window": "ferry-0-11",
+    "entrants": 106,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-01T18:00:00+08:00"
+  },
+  {
+    "window": "ferry-1-11",
+    "entrants": 220,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-02T18:00:00+08:00"
+  },
+  {
+    "window": "ferry-0-15",
+    "entrants": 216,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-01T18:00:00+08:00"
+  },
+  {
+    "window": "ferry-1-15",
+    "entrants": 186,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-02T18:00:00+08:00"
+  },
+  {
+    "window": "hall-0-11",
+    "entrants": 53,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-01T18:00:00+08:00"
+  },
+  {
+    "window": "hall-1-11",
+    "entrants": 55,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-02T18:00:00+08:00"
+  },
+  {
+    "window": "hall-0-15",
+    "entrants": 106,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-01T18:00:00+08:00"
+  },
+  {
+    "window": "hall-1-15",
+    "entrants": 82,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-02T18:00:00+08:00"
+  },
+  {
+    "window": "annex-0-11",
+    "entrants": 71,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-01T18:00:00+08:00"
+  },
+  {
+    "window": "annex-1-11",
+    "entrants": 90,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-02T18:00:00+08:00"
+  },
+  {
+    "window": "annex-0-15",
+    "entrants": 61,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-01T18:00:00+08:00"
+  },
+  {
+    "window": "annex-1-15",
+    "entrants": 69,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-02T18:00:00+08:00"
+  },
+  {
+    "window": "city-0-11",
+    "entrants": 88,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-01T18:00:00+08:00"
+  },
+  {
+    "window": "city-1-11",
+    "entrants": 88,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-02T18:00:00+08:00"
+  },
+  {
+    "window": "city-0-15",
+    "entrants": 108,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-01T18:00:00+08:00"
+  },
+  {
+    "window": "city-1-15",
+    "entrants": 80,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-02T18:00:00+08:00"
+  },
+  {
+    "window": "ferry-7-11",
+    "entrants": 98,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-08T18:00:00+08:00"
+  },
+  {
+    "window": "ferry-8-11",
+    "entrants": 144,
+    "actual": "混合",
+    "cross_exposure": true,
+    "register_down": false,
+    "known": "2026-08-09T18:00:00+08:00"
+  },
+  {
+    "window": "ferry-7-15",
+    "entrants": 158,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-08T18:00:00+08:00"
+  },
+  {
+    "window": "ferry-8-15",
+    "entrants": 214,
+    "actual": "混合",
+    "cross_exposure": true,
+    "register_down": false,
+    "known": "2026-08-09T18:00:00+08:00"
+  },
+  {
+    "window": "hall-7-11",
+    "entrants": 95,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-08T18:00:00+08:00"
+  },
+  {
+    "window": "hall-8-11",
+    "entrants": 81,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-09T18:00:00+08:00"
+  },
+  {
+    "window": "hall-7-15",
+    "entrants": 81,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-08T18:00:00+08:00"
+  },
+  {
+    "window": "hall-8-15",
+    "entrants": 108,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-09T18:00:00+08:00"
+  },
+  {
+    "window": "annex-7-11",
+    "entrants": 75,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-08T18:00:00+08:00"
+  },
+  {
+    "window": "annex-8-11",
+    "entrants": 83,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-09T18:00:00+08:00"
+  },
+  {
+    "window": "annex-7-15",
+    "entrants": 65,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-08T18:00:00+08:00"
+  },
+  {
+    "window": "annex-8-15",
+    "entrants": 61,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-09T18:00:00+08:00"
+  },
+  {
+    "window": "city-7-11",
+    "entrants": 78,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-08T18:00:00+08:00"
+  },
+  {
+    "window": "city-8-11",
+    "entrants": 74,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-09T18:00:00+08:00"
+  },
+  {
+    "window": "city-7-15",
+    "entrants": 92,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-08T18:00:00+08:00"
+  },
+  {
+    "window": "city-8-15",
+    "entrants": 60,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-09T18:00:00+08:00"
+  },
+  {
+    "window": "ferry-14-11",
+    "entrants": 218,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-15T18:00:00+08:00"
+  },
+  {
+    "window": "ferry-15-11",
+    "entrants": 206,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-16T18:00:00+08:00"
+  },
+  {
+    "window": "ferry-14-15",
+    "entrants": 198,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-15T18:00:00+08:00"
+  },
+  {
+    "window": "ferry-15-15",
+    "entrants": 180,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-16T18:00:00+08:00"
+  },
+  {
+    "window": "hall-14-11",
+    "entrants": 105,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-15T18:00:00+08:00"
+  },
+  {
+    "window": "hall-15-11",
+    "entrants": 81,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-16T18:00:00+08:00"
+  },
+  {
+    "window": "hall-14-15",
+    "entrants": 47,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-15T18:00:00+08:00"
+  },
+  {
+    "window": "hall-15-15",
+    "entrants": 88,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-16T18:00:00+08:00"
+  },
+  {
+    "window": "annex-14-11",
+    "entrants": 83,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-15T18:00:00+08:00"
+  },
+  {
+    "window": "annex-15-11",
+    "entrants": 67,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-16T18:00:00+08:00"
+  },
+  {
+    "window": "annex-14-15",
+    "entrants": 97,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-15T18:00:00+08:00"
+  },
+  {
+    "window": "annex-15-15",
+    "entrants": 101,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-16T18:00:00+08:00"
+  },
+  {
+    "window": "city-14-11",
+    "entrants": 52,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-15T18:00:00+08:00"
+  },
+  {
+    "window": "city-15-11",
+    "entrants": 84,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": true,
+    "known": "2026-08-16T18:00:00+08:00"
+  },
+  {
+    "window": "city-14-15",
+    "entrants": 95,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-15T18:00:00+08:00"
+  },
+  {
+    "window": "city-15-15",
+    "entrants": 108,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": true,
+    "known": "2026-08-16T18:00:00+08:00"
+  },
+  {
+    "window": "ferry-21-11",
+    "entrants": 92,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-22T18:00:00+08:00"
+  },
+  {
+    "window": "ferry-22-11",
+    "entrants": 118,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-23T18:00:00+08:00"
+  },
+  {
+    "window": "ferry-21-15",
+    "entrants": 96,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-22T18:00:00+08:00"
+  },
+  {
+    "window": "ferry-22-15",
+    "entrants": 182,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-23T18:00:00+08:00"
+  },
+  {
+    "window": "hall-21-11",
+    "entrants": 77,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-22T18:00:00+08:00"
+  },
+  {
+    "window": "hall-22-11",
+    "entrants": 86,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-23T18:00:00+08:00"
+  },
+  {
+    "window": "hall-21-15",
+    "entrants": 91,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-22T18:00:00+08:00"
+  },
+  {
+    "window": "hall-22-15",
+    "entrants": 100,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-23T18:00:00+08:00"
+  },
+  {
+    "window": "annex-21-11",
+    "entrants": 67,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-22T18:00:00+08:00"
+  },
+  {
+    "window": "annex-22-11",
+    "entrants": 76,
+    "actual": "混合",
+    "cross_exposure": true,
+    "register_down": false,
+    "known": "2026-08-23T18:00:00+08:00"
+  },
+  {
+    "window": "annex-21-15",
+    "entrants": 45,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-22T18:00:00+08:00"
+  },
+  {
+    "window": "annex-22-15",
+    "entrants": 99,
+    "actual": "混合",
+    "cross_exposure": true,
+    "register_down": false,
+    "known": "2026-08-23T18:00:00+08:00"
+  },
+  {
+    "window": "city-21-11",
+    "entrants": 105,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-22T18:00:00+08:00"
+  },
+  {
+    "window": "city-22-11",
+    "entrants": 101,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-23T18:00:00+08:00"
+  },
+  {
+    "window": "city-21-15",
+    "entrants": 64,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-22T18:00:00+08:00"
+  },
+  {
+    "window": "city-22-15",
+    "entrants": 65,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-23T18:00:00+08:00"
+  },
+  {
+    "window": "ferry-28-11",
+    "entrants": 174,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-29T18:00:00+08:00"
+  },
+  {
+    "window": "ferry-29-11",
+    "entrants": 198,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-30T18:00:00+08:00"
+  },
+  {
+    "window": "ferry-28-15",
+    "entrants": 138,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-29T18:00:00+08:00"
+  },
+  {
+    "window": "ferry-29-15",
+    "entrants": 218,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-30T18:00:00+08:00"
+  },
+  {
+    "window": "hall-28-11",
+    "entrants": 66,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-29T18:00:00+08:00"
+  },
+  {
+    "window": "hall-29-11",
+    "entrants": 48,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-30T18:00:00+08:00"
+  },
+  {
+    "window": "hall-28-15",
+    "entrants": 87,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-29T18:00:00+08:00"
+  },
+  {
+    "window": "hall-29-15",
+    "entrants": 92,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-30T18:00:00+08:00"
+  },
+  {
+    "window": "annex-28-11",
+    "entrants": 80,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-29T18:00:00+08:00"
+  },
+  {
+    "window": "annex-29-11",
+    "entrants": 52,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-30T18:00:00+08:00"
+  },
+  {
+    "window": "annex-28-15",
+    "entrants": 46,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-29T18:00:00+08:00"
+  },
+  {
+    "window": "annex-29-15",
+    "entrants": 98,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-30T18:00:00+08:00"
+  },
+  {
+    "window": "city-28-11",
+    "entrants": 88,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-29T18:00:00+08:00"
+  },
+  {
+    "window": "city-29-11",
+    "entrants": 107,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-30T18:00:00+08:00"
+  },
+  {
+    "window": "city-28-15",
+    "entrants": 93,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-29T18:00:00+08:00"
+  },
+  {
+    "window": "city-29-15",
+    "entrants": 64,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-08-30T18:00:00+08:00"
+  },
+  {
+    "window": "ferry-35-11",
+    "entrants": 158,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-09-05T18:00:00+08:00"
+  },
+  {
+    "window": "ferry-36-11",
+    "entrants": 194,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-09-06T18:00:00+08:00"
+  },
+  {
+    "window": "ferry-35-15",
+    "entrants": 152,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-09-05T18:00:00+08:00"
+  },
+  {
+    "window": "ferry-36-15",
+    "entrants": 196,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-09-06T18:00:00+08:00"
+  },
+  {
+    "window": "hall-35-11",
+    "entrants": 100,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-09-05T18:00:00+08:00"
+  },
+  {
+    "window": "hall-36-11",
+    "entrants": 82,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-09-06T18:00:00+08:00"
+  },
+  {
+    "window": "hall-35-15",
+    "entrants": 77,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-09-05T18:00:00+08:00"
+  },
+  {
+    "window": "hall-36-15",
+    "entrants": 73,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-09-06T18:00:00+08:00"
+  },
+  {
+    "window": "annex-35-11",
+    "entrants": 68,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-09-05T18:00:00+08:00"
+  },
+  {
+    "window": "annex-36-11",
+    "entrants": 94,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-09-06T18:00:00+08:00"
+  },
+  {
+    "window": "annex-35-15",
+    "entrants": 81,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-09-05T18:00:00+08:00"
+  },
+  {
+    "window": "annex-36-15",
+    "entrants": 76,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-09-06T18:00:00+08:00"
+  },
+  {
+    "window": "city-35-11",
+    "entrants": 95,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-09-05T18:00:00+08:00"
+  },
+  {
+    "window": "city-36-11",
+    "entrants": 71,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-09-06T18:00:00+08:00"
+  },
+  {
+    "window": "city-35-15",
+    "entrants": 70,
+    "actual": "原价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-09-05T18:00:00+08:00"
+  },
+  {
+    "window": "city-36-15",
+    "entrants": 72,
+    "actual": "试价",
+    "cross_exposure": false,
+    "register_down": false,
+    "known": "2026-09-06T18:00:00+08:00"
+  }
+]

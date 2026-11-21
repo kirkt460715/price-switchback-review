@@ -1,0 +1,58 @@
+[
+  {
+    "sku": "rubbed-note",
+    "store": "ferry",
+    "rate_from": "2026-08-01",
+    "cost": 4100,
+    "registered": "2026-08-01T09:00:00+08:00"
+  },
+  {
+    "sku": "rubbed-note",
+    "store": "ferry",
+    "rate_from": "2026-09-12",
+    "cost": 4550,
+    "registered": "2026-09-12T09:00:00+08:00"
+  },
+  {
+    "sku": "rubbed-note",
+    "store": "hall",
+    "rate_from": "2026-08-01",
+    "cost": 4100,
+    "registered": "2026-08-01T09:00:00+08:00"
+  },
+  {
+    "sku": "rubbed-note",
+    "store": "hall",
+    "rate_from": "2026-09-12",
+    "cost": 4550,
+    "registered": "2026-09-12T09:00:00+08:00"
+  },
+  {
+    "sku": "rubbed-note",
+    "store": "annex",
+    "rate_from": "2026-08-01",
+    "cost": 4100,
+    "registered": "2026-08-01T09:00:00+08:00"
+  },
+  {
+    "sku": "rubbed-note",
+    "store": "annex",
+    "rate_from": "2026-09-12",
+    "cost": 4550,
+    "registered": "2026-09-12T09:00:00+08:00"
+  },
+  {
+    "sku": "rubbed-note",
+    "store": "city",
+    "rate_from": "2026-08-01",
+    "cost": 4100,
+    "registered": "2026-08-01T09:00:00+08:00"
+  },
+  {
+    "sku": "rubbed-note",
+    "store": "city",
+    "rate_from": "2026-09-12",
+    "cost": 4550,
+    "registered": "2026-09-12T09:00:00+08:00"
+  }
+]
