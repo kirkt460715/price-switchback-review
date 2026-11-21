@@ -9,6 +9,9 @@ class DeliveryTest(unittest.TestCase):
         paid = read_table("orders.json")
         self.assertTrue({r["window"] for r in paid} <= {r["window"] for r in plan})
         self.assertTrue({r["order"] for r in read_table("refunds.json")} <= {r["id"] for r in paid})
+        footfall = read_table("footfall.json")
+        for record in read_table("exposure.json"):
+            self.assertEqual(record["entrants"], sum(r["entrants"] for r in footfall if r["window"] == record["window"]))
         hits = {r["pair"] for r in plan if r["window"] in
                 {e["window"] for e in read_table("exposure.json") if e["register_down"]}}
         self.assertEqual(len([r for r in plan if r["pair"] in hits]), 2)
